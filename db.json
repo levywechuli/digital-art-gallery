@@ -1,0 +1,67 @@
+{
+    "artworks": [
+      {
+        "id": 1,
+        "title": "Starry Night",
+        "artist": "Vincent van Gogh",
+        "imageUrl": "link-to-image",
+        "price": 100000000
+      },
+      {
+        "id": 2,
+        "title": "The Persistence of Memory",
+        "artist": "Salvador Dalí",
+        "imageUrl": "link-to-image",
+        "price": 65000000
+      },
+      {
+        "id": 3,
+        "title": "The Scream",
+        "artist": "Edvard Munch",
+        "imageUrl": "link-to-image",
+        "price": 120000000
+      },
+      {
+        "id": 4,
+        "title": "Girl with a Pearl Earring",
+        "artist": "Johannes Vermeer",
+        "imageUrl": "link-to-image",
+        "price": 78000000
+      },
+      {
+        "id": 5,
+        "title": "Mona Lisa",
+        "artist": "Leonardo da Vinci",
+        "imageUrl": "link-to-image",
+        "price": 860000000
+      },
+      {
+        "id": 6,
+        "title": "The Birth of Venus",
+        "artist": "Sandro Botticelli",
+        "imageUrl": "link-to-image",
+        "price": 200000000
+      },
+      {
+        "id": 7,
+        "title": "The Kiss",
+        "artist": "Gustav Klimt",
+        "imageUrl": "link-to-image",
+        "price": 150000000
+      },
+      {
+        "id": 8,
+        "title": "The Night Watch",
+        "artist": "Rembrandt van Rijn",
+        "imageUrl": "link-to-image",
+        "price": 50000000
+      },
+      {
+        "id": 9,
+        "title": "Water Lilies",
+        "artist": "Claude Monet",
+        "imageUrl": "link-to-image",
+        "price": 80000000
+      }
+    ]
+  }
