@@ -1,8 +1,6 @@
 function NavBar() {
     return(
-        <div>
-         
-        </div>
+       <h1>DIGITAL ART COLLECTION</h1>
 
     )
 }
